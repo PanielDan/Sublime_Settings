@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Colorsublime",
+		"Monokai - Spacegray",
+		"Package Control",
+		"Predawn",
+		"SublimeCodeIntel",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-cppcheck",
+		"Theme - Asphalt",
+		"Theme - Spacegray",
+		"Verilog"
+	]
+}

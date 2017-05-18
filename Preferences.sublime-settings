@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/User/Themes/Capo-Dark (SL).tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"predawn",
+		"Vintage"
+	],
+	"spacegray_fileicons": true,
+	"spacegray_tabs_xlarge": true,
+	"theme": "Spacegray Eighties.sublime-theme"
+}
